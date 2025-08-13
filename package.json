@@ -2,10 +2,10 @@
   "name": "accordion",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "dev": "node --watch index.js",
-    "start": "node index.js"
+    "dev": "node --watch main.js",
+    "start": "node main.js"
   },
   "keywords": [],
   "author": "",
